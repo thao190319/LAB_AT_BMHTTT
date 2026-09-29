@@ -1,7 +1,7 @@
-Họ và Tên: Nguyễn Thị Thanh Thảo
-MSSV:1050070046
-Lớp: 11_DH_TMDT
-LAB04: Khảo sát và đánh giá bề mặt mạng qua Nmap
+- Họ và Tên: Nguyễn Thị Thanh Thảo
+- MSSV:1050070046
+- Lớp: 11_DH_TMDT
+- LAB04: Khảo sát và đánh giá bề mặt mạng qua Nmap
 Mục tiêu, phạm vi và quy định thực hành
 - Hiểu mô hình host/guest.
 - Cài và kiểm tra Nmap trên Windows 10/11 và Kali Linux; hiểu vai trò của Npcap trên
